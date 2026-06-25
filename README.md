@@ -1,9 +1,10 @@
-# 🛒 Zepto Product & Inventory Analysis using SQL
+<img width="1254" height="1254" alt="ChatGPT Image Jun 25, 2026, 10_15_45 AM" src="https://github.com/user-attachments/assets/5ac331a2-7f0a-415b-b459-c77be51ce2eb" /># 🛒 Zepto Product & Inventory Analysis using SQL
 
 ## 📌 Project Overview
 
 This project focuses on analyzing Zepto's product inventory dataset using SQL Server. The objective is to derive meaningful insights related to product pricing, discounts, category distribution, and inventory management while demonstrating proficiency in SQL concepts ranging from basic aggregations to advanced window functions.
-![Uploading ChatGPT Image Jun 25, 2026, 10_15_45 AM.png…]()
+![Uploading ChatGPT Image Jun 25, 2026, 10_15_45 AM.png…]
+
 
 
 ---
