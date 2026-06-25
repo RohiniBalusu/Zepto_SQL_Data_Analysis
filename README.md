@@ -3,6 +3,8 @@
 ## 📌 Project Overview
 
 This project focuses on analyzing Zepto's product inventory dataset using SQL Server. The objective is to derive meaningful insights related to product pricing, discounts, category distribution, and inventory management while demonstrating proficiency in SQL concepts ranging from basic aggregations to advanced window functions.
+![Uploading ChatGPT Image Jun 25, 2026, 10_15_45 AM.png…]()
+
 
 ---
 
